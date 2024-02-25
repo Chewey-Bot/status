@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/chewey-bot.top.ico",
     "slug": "website",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.97%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 368,
     "timeDay": 794,
     "timeWeek": 455,
     "timeMonth": 368,
     "timeYear": 368,
     "dailyMinutesDown": {
-      "2024-02-25": 1
+      "2024-02-25": 11
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dash.chewey-bot.top.ico",
     "slug": "dashboard",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 603,
     "timeDay": 2657,
     "timeWeek": 1055,
     "timeMonth": 603,
     "timeYear": 603,
     "dailyMinutesDown": {
-      "2024-02-25": 1
+      "2024-02-25": 10
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://api.chewey-bot.top",
     "icon": "https://icons.duckduckgo.com/ip3/api.chewey-bot.top.ico",
     "slug": "api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 292,
-    "timeDay": 230,
-    "timeWeek": 306,
-    "timeMonth": 292,
-    "timeYear": 292,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 290,
+    "timeDay": 234,
+    "timeWeek": 299,
+    "timeMonth": 290,
+    "timeYear": 290,
     "dailyMinutesDown": {
-      "2024-02-25": 1
+      "2024-02-25": 10
     }
   },
   {
@@ -83,18 +83,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "iss-renderer",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 282,
     "timeDay": 695,
     "timeWeek": 401,
     "timeMonth": 282,
     "timeYear": 282,
     "dailyMinutesDown": {
-      "2024-02-25": 0
+      "2024-02-25": 10
     }
   },
   {
