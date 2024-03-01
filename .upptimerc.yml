@@ -9,6 +9,8 @@ sites:
     url: https://dash.chewey-bot.top
   - name: API
     url: https://api.chewey-bot.top
+  - name: Analytics
+    url: https://api.chewey-bot.top/analytics/getlatest/220625669032247296
   - name: CDN
     url: https://cdn.chewey-bot.top
   - name: ISS Renderer
