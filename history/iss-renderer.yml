@@ -1,7 +1,7 @@
 url: $ISS_RENDER
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-03-25T10:21:01.475Z
+status: up
+code: 200
+responseTime: 320
+lastUpdated: 2024-03-25T15:29:50.217Z
 startTime: 2024-01-26T23:03:53.561Z
 generator: Upptime <https://github.com/upptime/upptime>
