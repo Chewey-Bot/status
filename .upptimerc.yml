@@ -6,7 +6,7 @@ sites:
   - name: Website
     url: https://chewey-bot.top
   - name: Dashboard
-    url: https://dash.chewey-bot.top
+    url: https://dash.chewey-bot.top/favicon.ico
   - name: API
     url: https://api.chewey-bot.top
   - name: Analytics
