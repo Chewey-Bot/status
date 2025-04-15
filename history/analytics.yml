@@ -1,7 +1,7 @@
 url: https://api.chewey-bot.top/analytics/getlatest/220625669032247296
-status: up
-code: 200
-responseTime: 124
-lastUpdated: 2025-04-14T23:12:27.338Z
+status: down
+code: 502
+responseTime: 283
+lastUpdated: 2025-04-15T08:27:23.336Z
 startTime: 2024-03-01T22:00:37.190Z
 generator: Upptime <https://github.com/upptime/upptime>
