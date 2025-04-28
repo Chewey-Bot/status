@@ -24,19 +24,19 @@
     "url": "https://dash.chewey-bot.top/favicon.ico",
     "icon": "https://icons.duckduckgo.com/ip3/dash.chewey-bot.top.ico",
     "slug": "dashboard",
-    "status": "down",
+    "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 344,
-    "timeDay": 305,
-    "timeWeek": 235,
-    "timeMonth": 259,
+    "timeDay": 279,
+    "timeWeek": 234,
+    "timeMonth": 258,
     "timeYear": 304,
     "dailyMinutesDown": {
-      "2025-04-28": 0
+      "2025-04-28": 10
     }
   },
   {
@@ -124,17 +124,19 @@
     "url": "$MAP_TILES",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "map-tiles",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 276,
-    "timeDay": 172,
-    "timeWeek": 193,
-    "timeMonth": 218,
+    "timeDay": 153,
+    "timeWeek": 186,
+    "timeMonth": 216,
     "timeYear": 249,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-28": 0
+    }
   }
 ]
