@@ -26,18 +26,16 @@
     "slug": "dashboard",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 344,
     "timeDay": 279,
     "timeWeek": 234,
     "timeMonth": 258,
     "timeYear": 304,
-    "dailyMinutesDown": {
-      "2025-04-28": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "API",
@@ -124,19 +122,20 @@
     "url": "$MAP_TILES",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "map-tiles",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 276,
-    "timeDay": 153,
-    "timeWeek": 186,
-    "timeMonth": 216,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "94.97%",
+    "uptimeWeek": "99.28%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.99%",
+    "time": 275,
+    "timeDay": 131,
+    "timeWeek": 175,
+    "timeMonth": 212,
     "timeYear": 249,
     "dailyMinutesDown": {
-      "2025-04-28": 0
+      "2025-04-29": 66,
+      "2025-04-28": 7
     }
   }
 ]
