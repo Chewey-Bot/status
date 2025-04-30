@@ -11,10 +11,10 @@
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
     "time": 352,
-    "timeDay": 360,
-    "timeWeek": 273,
-    "timeMonth": 329,
-    "timeYear": 351,
+    "timeDay": 89,
+    "timeWeek": 253,
+    "timeMonth": 327,
+    "timeYear": 350,
     "dailyMinutesDown": {
       "2025-04-15": 59
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 344,
-    "timeDay": 279,
-    "timeWeek": 234,
-    "timeMonth": 258,
-    "timeYear": 304,
+    "time": 343,
+    "timeDay": 92,
+    "timeWeek": 219,
+    "timeMonth": 256,
+    "timeYear": 303,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
-    "time": 287,
-    "timeDay": 122,
-    "timeWeek": 156,
-    "timeMonth": 205,
-    "timeYear": 276,
+    "time": 286,
+    "timeDay": 69,
+    "timeWeek": 115,
+    "timeMonth": 204,
+    "timeYear": 275,
     "dailyMinutesDown": {
       "2025-04-15": 27
     }
@@ -68,10 +68,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.96%",
-    "time": 192,
-    "timeDay": 130,
-    "timeWeek": 134,
-    "timeMonth": 148,
+    "time": 191,
+    "timeDay": 64,
+    "timeWeek": 121,
+    "timeMonth": 146,
     "timeYear": 200,
     "dailyMinutesDown": {
       "2025-04-15": 129,
@@ -91,10 +91,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 219,
-    "timeDay": 120,
-    "timeWeek": 158,
-    "timeMonth": 175,
-    "timeYear": 216,
+    "timeDay": 72,
+    "timeWeek": 146,
+    "timeMonth": 174,
+    "timeYear": 215,
     "dailyMinutesDown": {}
   },
   {
@@ -108,11 +108,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
-    "time": 317,
-    "timeDay": 348,
-    "timeWeek": 195,
-    "timeMonth": 837,
-    "timeYear": 327,
+    "time": 316,
+    "timeDay": 85,
+    "timeWeek": 178,
+    "timeMonth": 835,
+    "timeYear": 326,
     "dailyMinutesDown": {
       "2025-04-15": 60
     }
@@ -124,15 +124,15 @@
     "slug": "map-tiles",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "94.97%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.28%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.99%",
     "time": 275,
-    "timeDay": 131,
-    "timeWeek": 175,
-    "timeMonth": 212,
-    "timeYear": 249,
+    "timeDay": 88,
+    "timeWeek": 152,
+    "timeMonth": 211,
+    "timeYear": 248,
     "dailyMinutesDown": {
       "2025-04-29": 66,
       "2025-04-28": 7
