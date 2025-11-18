@@ -1,7 +1,7 @@
 url: $MAP_TILES
-status: down
-code: 500
-responseTime: 202
-lastUpdated: 2025-11-18T13:32:07.846Z
+status: up
+code: 200
+responseTime: 364
+lastUpdated: 2025-11-18T15:26:08.158Z
 startTime: 2024-01-26T23:03:54.004Z
 generator: Upptime <https://github.com/upptime/upptime>
